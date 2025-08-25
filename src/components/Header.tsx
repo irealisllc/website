@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="/">
           <img src="/logo.png" alt="Irealis Logo" height="30" className="me-2" />
           Irealis
         </a>
